@@ -1,0 +1,33 @@
+[theme]
+base = "dark"
+
+# Main accent
+primaryColor = "#C89B3C"
+
+# Main page
+backgroundColor = "#090807"
+
+# Sidebar / inputs / widgets
+secondaryBackgroundColor = "#17130F"
+
+# Main text
+textColor = "#E7D8B1"
+
+# Borders
+borderColor = "#5A4529"
+
+# Softer separators
+dataframeBorderColor = "#3A2E20"
+
+# Typography
+font = "Georgia"
+headingFont = "Cinzel"
+codeFont = "Courier New"
+
+# Shape
+baseRadius = "small"
+buttonRadius = "small"
+
+# Borders
+showWidgetBorder = true
+showSidebarBorder = true
